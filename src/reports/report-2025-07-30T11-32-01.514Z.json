@@ -1,0 +1,17 @@
+{
+  "files": 179,
+  "directories": 52,
+  "totalSize": 2655530,
+  "extensions": {
+    "no_ext": 35,
+    ".sample": 14,
+    ".idx": 1,
+    ".pack": 1,
+    ".rev": 1,
+    ".ts": 115,
+    ".json": 7,
+    ".md": 2,
+    ".csv": 1,
+    ".xml": 2
+  }
+}
